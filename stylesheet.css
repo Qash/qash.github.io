@@ -1,3 +1,16 @@
 body{
-	background-color: tomato;
+	background-color: goldenrod;
+}
+
+p{
+	color:rgb(70,70,70);
+	width:60%;
+	background-color: moccasin;
+	font-family:Cooper Std;
+	padding: 120px;
+	font-size: 5em;
+	border-radius: 50px;
+	text-align: center;
+	margin: auto;
+	margin-top: 200px;
 }
