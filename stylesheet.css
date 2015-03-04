@@ -1,3 +1,9 @@
 body{
-	background-color: tomato;
+	background-color: goldenrod;
+}
+
+p{
+	background-color: moccasin;
+	color: rgb(70,70,70);
+	border-radius:50px;
 }
