@@ -3,7 +3,6 @@ body{
 }
 
 p{
-<<<<<<< HEAD
 	color:rgb(70,70,70);
 	width:60%;
 	background-color: moccasin;
@@ -15,16 +14,3 @@ p{
 	margin: auto;
 	margin-top: 200px;
 }
-=======
-	background-color: moccasin;
-	color: rgb(70,70,70);
-	border-radius:50px;
-	padding: 120px;
-	margin: auto;
-	margin-top:20%;
-	font-size: 5em;
-	font-family: Cooper std;
-	text-align: center;
-	width: 60%;
-}
->>>>>>> origin/master
